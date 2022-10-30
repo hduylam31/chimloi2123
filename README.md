@@ -11,7 +11,7 @@
 ```javascript
 const Lam = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, Python, C++],
+  code: [Javascript, SQL, Python, C++, UI/UX],
   architecture: ["design system pattern"],
 }
 ```
